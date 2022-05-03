@@ -10,5 +10,5 @@ else
     echo "$FILE does not exist."
 fi
 cd /home/ubuntu
-sudo rm -rf app
-sudo mkdir app
+rm -rf app
+mkdir app
